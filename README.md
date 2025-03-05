@@ -1,4 +1,4 @@
-# .github
+# Company Profile
 Overview of the Company
 
 # AI Block Solution 🚀  
